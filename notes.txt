@@ -1,0 +1,3 @@
+download and install python 3.10.13
+install requerements.txt 
+run python app.py
